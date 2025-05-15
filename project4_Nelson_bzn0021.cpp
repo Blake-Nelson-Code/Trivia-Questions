@@ -8,7 +8,7 @@
 *
 * COMPILE: g++ project4_Nelson_bzn0021.cpp -o p4.out
 * COMPILE: ./p4.out
-* scp studentID@scp.eng.auburn.edu:/home/u3/studentID/project5_lantname_rdb0044.tar.gz /mnt/c/Users/robbi/Downloads
+* scp studentID@scp.eng.auburn.edu:/home/u3/studentID/project4_Nelson_bzn0021.tar.gz /mnt/c/Users/blake nelson/Downloads
 * I followed the instructions provided to understand the code structure.
 * Additionally, I used resources like Stack Overflow and asked ChatGPT for assistance
 * to figure out how to display multiple questions, tally scores, and grasp the overall code setup.
